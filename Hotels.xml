@@ -50,7 +50,7 @@
 		</Address>
 	</Hotel>
 	<Hotel rating ="9.4">
-		<Name>Holiday Inn Express & Suites Phoenix Airport North by IHG</Name>
+		<Name>Holiday Inn Express and Suites Phoenix Airport North by IHG</Name>
 		<Phone>1-888-2510417</Phone>
 		<Address NearestAirport="Sky Harbor">
 			<Number>800</Number>
