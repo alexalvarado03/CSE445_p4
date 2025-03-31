@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+			targetNamespace="https://alexalvarado03.github.io/CSE445_p4/"
+			xmlns:bs="https://alexalvarado03.github.io/CSE445_p4/Hotels.xsd"
+			elementFormDefault="qualified" attributeFormDefault="unqualified">
 <xsd:element name="Hotels">
     <xsd:complexType>
         <xsd:sequence>
@@ -9,12 +12,12 @@
 </xsd:element>
 <xsd:element name="Hotel">
 	<xsd:complexType>
-		<xsd:all>
+		<xsd:sequence>
 			<xsd:element name="Name" type ="xsd:string" minOccurs="1" maxOccurs="1"/>
-			<xsd:element name="Phone" type ="xsd:string" minOccurs="1" maxOccurs="1"/>
+			<xsd:element name="Phone" type="xsd:string" minOccurs="1" maxOccurs="unbounded"/>
 			<xsd:element name="Address" minOccurs="1" maxOccurs="1"/>
-			<xsd:element name="Rating" type ="xsd:string" minOccurs="0" maxOccurs="1"/>
-		</xsd:all>
+		</xsd:sequence>
+		<xsd:attribute name="Rating" type ="xsd:string" use="optional"/>
 	</xsd:complexType>
 </xsd:element>
 <xsd:element name="Address">
@@ -26,6 +29,7 @@
 			<xsd:element name="State" type ="xsd:string" minOccurs="1" maxOccurs="1"/>
 			<xsd:element name="Zip" type ="xsd:string" minOccurs="1" maxOccurs="1"/>
 		</xsd:sequence>
+		<xsd:attribute name="NearestAirport" type="xsd:string" use="required"/>
 	</xsd:complexType>
 </xsd:element>
 </xsd:schema>
