@@ -14,6 +14,29 @@
 			<Zip>85051</Zip>
 		</Address>
 	</Hotel>
+	<Hotel>
+		<Name>Drury Inn & Suites Phoenix Happy Valley</Name>
+		<Phone>632-879-8800</Phone>
+		<Phone>602-794-3248</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>2335</Number>
+			<Street>W Pinnacle Peak Road</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85027</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>Arizona Biltmore</Name>
+		<Phone>602-955-6600</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>2400</Number>
+			<Street>E. Missouri Ave</Street>
+			<City>Phoenix</City>
+			<State>Arizona</State>
+			<Zip>85016</Zip>
+		</Address>
+	</Hotel>
 	<Hotel rating ="4.2">
 		<Name>Westin</Name>
 		<Phone>4809688885</Phone>
@@ -27,4 +50,3 @@
 		</Address>
 	</Hotel>
 </Hotels>
-	
