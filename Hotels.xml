@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Hotels xmlns="https://alexalvarado03.github.io/CSE445_p4/Hotels.xsd"
+	   xmlns:bs="https://alexalvarado03.github.io/CSE445_p4/Hotels.xsd"
+	   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	   xsi:schemaLocation="https://alexalvarado03.github.io/CSE445_p4/Hotels.xsd>
+	
+</Hotels>
+	
