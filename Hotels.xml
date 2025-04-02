@@ -6,7 +6,7 @@
 	<Hotel bs:rating="4.0">
 		<Name>DoubleTree by Hilton Phoenix North</Name>
 		<Phone>602-997-5900</Phone>
-		<Address NearestAirport="Phoenix-Deer Valley Municipal Airport">
+		<Address NearstAirport="Phoenix-Deer Valley Municipal Airport">
 			<Number>10220</Number>
 			<Street>North Metro Parkway</Street>
 			<City>East Phoenix</City>
@@ -18,7 +18,7 @@
 		<Name>Drury Inn and Suites Phoenix Happy Valley</Name>
 		<Phone>632-879-8800</Phone>
 		<Phone>602-794-3248</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>2335</Number>
 			<Street>W Pinnacle Peak Road</Street>
 			<City>Phoenix</City>
@@ -29,7 +29,7 @@
 	<Hotel>
 		<Name>Arizona Biltmore</Name>
 		<Phone>602-955-6600</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>2400</Number>
 			<Street>E. Missouri Ave</Street>
 			<City>Phoenix</City>
@@ -41,7 +41,7 @@
 		<Name>Westin</Name>
 		<Phone>480-968-8885</Phone>
 		<Phone>800-937-8461</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>11</Number>
 			<Street>E. 7th St</Street>
 			<City>Tempe</City>
@@ -52,7 +52,7 @@
 	<Hotel rating ="9.4">
 		<Name>Holiday Inn Express and Suites Phoenix Airport North by IHG</Name>
 		<Phone>1-888-2510417</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>800</Number>
 			<Street>North 44th Street</Street>
 			<City>Phoenix</City>
@@ -63,7 +63,7 @@
 	<Hotel rating ="8.8">
 		<Name>Courtyard Phoenix North by Marriott</Name>
 		<Phone>602-944-7373</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>9631</Number>
 			<Street>North Black Canyon Highway</Street>
 			<City>Phoenix</City>
@@ -74,7 +74,7 @@
 	<Hotel>
 		<Name>Courtyard by Marriott Phoenix West/Avondale</Name>
 		<Phone>623-271-7660</Phone>
-		<Address NearestAirport="Glendale Municipal Airport">
+		<Address NearstAirport="Glendale Municipal Airport">
 			<Number>1650</Number>
 			<Street>N. 95th Lane</Street>
 			<City>Phoenix</City>
@@ -85,7 +85,7 @@
 	<Hotel rating ="9.2">
 		<Name>Springhill Suites By Marriot Phoenix Downtown</Name>
 		<Phone>602-307-9929</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>802</Number>
 			<Street>East Van Buren Street</Street>
 			<City>Phoenix</City>
@@ -96,7 +96,7 @@
 	<Hotel>
 		<Name>La Quinta Inn and Suites by Wyndham Phoenix Chandler</Name>
 		<Phone>480-961-7700</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>15241</Number>
 			<Street>South 50th Street</Street>
 			<City>Phoenix</City>
@@ -107,7 +107,7 @@
 	<Hotel rating ="9.2">
 		<Name>Hampton Inn and Suites Phoenix Downtown</Name>
 		<Phone>833-483-9878</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>77</Number>
 			<Street>E Polk St.</Street>
 			<City>Phoenix</City>
