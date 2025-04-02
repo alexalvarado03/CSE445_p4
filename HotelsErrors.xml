@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Hotel xmlns="https://alexalvarado03.github.io/CSE445_p4/Hotels.xsd"
+	   xmlns:bs="https://alexalvarado03.github.io/CSE445_p4/Hotels.xsd"
+	   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	   xsi:schemaLocation="https://alexalvarado03.github.io/CSE445_p4/ https://alexalvarado03.github.io/CSE445_p4/Hotels.xsd">
+	<Hotel bs:rating="4.0">
+		<Name>DoubleTree by Hilton Phoenix North</Name>
+		<Phone>602-997-5900</Phone>
+		<Address>
+			<Number>10220</Number>
+			<Street>North Metro Parkway</Street>
+			<City>East Phoenix</City>
+			<State>Arizona</State>
+			<Zip>85051</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>Drury Inn and Suites Phoenix Happy Valley</Name>
+		<Name>Hilton</Name>
+		<Phone>632-879-8800</Phone>
+		<Phone>602-794-3248</Phone>
+		<Address>
+			<Number>2335</Number>
+			<Street>W Pinnacle Peak Road</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85027</Zip>
+	</Hotel>
+	<Hotel>
+		<Name>Arizona Biltmore</Name>
+		<Address>
+			<Number>2400</Number>
+			<Street>E. Missouri Ave</Street>
+			<City>Phoenix</City>
+			<State>Arizona</State>
+			<Zip>85016</Zip>
+		</Address>
+	</Hotel>
+	<Hotel rating ="4.2">
+		<Name>Westin</Name>
+		<Phone>480-968-8885</Phone>
+		<Phone>800-937-8461</Phone>
+		<Address>
+			<Number>11</Number>
+			<Street>E. 7th St</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+	<Hotel rating ="9.4">
+		<Name>Holiday Inn Express and Suites Phoenix Airport North by IHG</Name>
+		<Phone>1-888-2510417</Phone>
+		<Address>
+			<Number>800</Number>
+			<Street>North 44th Street</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85008</Zip>
+		</Address>
+	</Hotel>
+	<Hotel rating ="8.8">
+		<Name>Courtyard Phoenix North by Marriott</Name>
+		<Phone>602-944-7373</Phone>
+		<Address>
+			<Number>9631</Number>
+			<Street>North Black Canyon Highway</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85021</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>Courtyard by Marriott Phoenix West/Avondale</Name>
+		<Phone>623-271-7660</Phone>
+		<Address>
+			<Number>1650</Number>
+			<Street>N. 95th Lane</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85037</Zip>
+		</Address>
+	</Hotel>
+	<Hotel rating ="9.2">
+		<Name>Springhill Suites By Marriot Phoenix Downtown</Name>
+		<Phone>602-307-9929</Phone>
+		<Address>
+			<Number>802</Number>
+			<Street>East Van Buren Street</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85006</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>La Quinta Inn and Suites by Wyndham Phoenix Chandler</Name>
+		<Phone>480-961-7700</Phone>
+		<Address>
+			<Number>15241</Number>
+			<Street>South 50th Street</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85044</Zip>
+		</Address>
+	</Hotel>
+	<Hotel rating ="9.2">
+		<Name>Hampton Inn and Suites Phoenix Downtown</Name>
+		<Phone>833-483-9878</Phone>
+		<Address>
+			<Number>77</Number>
+			<Street>E Polk St.</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85004</Zip>
+		</Address>
+	</Hotel>
+</Hotel>
